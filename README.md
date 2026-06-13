@@ -3,6 +3,8 @@
 This folder is the starting point for a computer that should configure itself
 from GitHub and Markdown.
 
+GitHub repo: `https://github.com/qr-bao/github-bootstrap-template`
+
 ## Read Order
 
 1. `README.md`
